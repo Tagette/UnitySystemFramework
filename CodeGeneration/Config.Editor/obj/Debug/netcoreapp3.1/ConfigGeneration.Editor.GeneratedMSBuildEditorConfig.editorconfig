@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ConfigGeneration.Editor
+build_property.ProjectDir = C:\Users\Tristan\Projects\UnitySystemFramework\CodeGeneration\Config.Editor\

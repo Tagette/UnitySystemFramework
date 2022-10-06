@@ -1,0 +1,20 @@
+{
+    "name": "UnitySystemFramework.Configs.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7624169653f1cec48a64a0234598cdf5",
+        "GUID:7472641e9076fa9408eed38d7605e49d",
+        "GUID:699d1a7b03905104eb61496fe8cfe42e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

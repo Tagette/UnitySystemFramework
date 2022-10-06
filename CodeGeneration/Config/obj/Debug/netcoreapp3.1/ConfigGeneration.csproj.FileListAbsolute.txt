@@ -1,0 +1,15 @@
+C:\Users\Tristan\Projects\UnitySystemFramework\CodeGeneration\Config\bin\Debug\netcoreapp3.1\ConfigGeneration.deps.json
+C:\Users\Tristan\Projects\UnitySystemFramework\CodeGeneration\Config\bin\Debug\netcoreapp3.1\ConfigGeneration.dll
+C:\Users\Tristan\Projects\UnitySystemFramework\CodeGeneration\Config\bin\Debug\netcoreapp3.1\ConfigGeneration.pdb
+C:\Users\Tristan\Projects\UnitySystemFramework\CodeGeneration\Config\bin\Debug\netcoreapp3.1\UnityEngine.CoreModule.dll
+C:\Users\Tristan\Projects\UnitySystemFramework\CodeGeneration\Config\bin\Debug\netcoreapp3.1\UnityEngine.dll
+C:\Users\Tristan\Projects\UnitySystemFramework\CodeGeneration\Config\bin\Debug\netcoreapp3.1\UnityEngine.xml
+C:\Users\Tristan\Projects\UnitySystemFramework\CodeGeneration\Config\bin\Debug\netcoreapp3.1\UnityEngine.CoreModule.xml
+C:\Users\Tristan\Projects\UnitySystemFramework\CodeGeneration\Config\obj\Debug\netcoreapp3.1\ConfigGeneration.csproj.AssemblyReference.cache
+C:\Users\Tristan\Projects\UnitySystemFramework\CodeGeneration\Config\obj\Debug\netcoreapp3.1\ConfigGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tristan\Projects\UnitySystemFramework\CodeGeneration\Config\obj\Debug\netcoreapp3.1\ConfigGeneration.AssemblyInfoInputs.cache
+C:\Users\Tristan\Projects\UnitySystemFramework\CodeGeneration\Config\obj\Debug\netcoreapp3.1\ConfigGeneration.AssemblyInfo.cs
+C:\Users\Tristan\Projects\UnitySystemFramework\CodeGeneration\Config\obj\Debug\netcoreapp3.1\ConfigGeneration.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\Projects\UnitySystemFramework\CodeGeneration\Config\obj\Debug\netcoreapp3.1\ConfigGeneration.csproj.CopyComplete
+C:\Users\Tristan\Projects\UnitySystemFramework\CodeGeneration\Config\obj\Debug\netcoreapp3.1\ConfigGeneration.dll
+C:\Users\Tristan\Projects\UnitySystemFramework\CodeGeneration\Config\obj\Debug\netcoreapp3.1\ConfigGeneration.pdb
